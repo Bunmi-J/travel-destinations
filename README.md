@@ -1,2 +1,2 @@
 # travel-destinations
-The task is to integrate data from a public REST API for countries information. This data will be used to recommend travel destinations to our customers based on some different factors like language, continents, regions, currency and many more.
+The task is to integrate data from a public REST API for countries information. This data will be used to recommend travel destinations to our customers based on some different factors like language, continents, regions, currency and many more. A scalable data pipeline to recommend travel destinations to prospective clients.
